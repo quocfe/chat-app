@@ -62,14 +62,6 @@ const Profile = () => {
 					@ {userSelect?.username}{' '}
 				</div>
 			</div>
-			<div className="mt-3.5">
-				<a
-					href="timeline.html"
-					className="inline-block rounded-lg px-4 py-1.5 text-sm font-semibold bg-secondery"
-				>
-					View profile
-				</a>
-			</div>
 		</div>
 	);
 };
